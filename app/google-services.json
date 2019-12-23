@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "568031312467",
+    "firebase_url": "https://reminderapp-f5c65.firebaseio.com",
+    "project_id": "reminderapp-f5c65",
+    "storage_bucket": "reminderapp-f5c65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568031312467:android:376f797a0b6fda69fce4a6",
+        "android_client_info": {
+          "package_name": "com.anita.reminderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568031312467-9071b881ncf449h50oa6dagqri3o2e6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anita.reminderapp",
+            "certificate_hash": "7f4e326c803dbce4762d69651330caf42be8b19c"
+          }
+        },
+        {
+          "client_id": "568031312467-t9s0erk6b6d0bcff7h2pmfvh01i8c9u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy5mtPcv5Yh_71MK5_aLfNLJS16FeUXyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568031312467-t9s0erk6b6d0bcff7h2pmfvh01i8c9u3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
